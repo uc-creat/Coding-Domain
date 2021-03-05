@@ -1,0 +1,6 @@
+## How other branches like Electrical, Mechanical & Automobile is related to Computer Science
+### Electrical:
+#### CS is logic, programming, circuitry, binary, and very structured. So is EE. In EE, a circuit often either works or doesn’t. Same in CS. The isolation of problems, troubleshooting is remarkably similar. The design of systems, circuits, programs, software, I/O, GUI’s and networks is also very similar - in fact, they often use similar tools - flow diagrams, process charts and schematics. Computer Science is like a combination of Mathematics and Electrical Engineering. Computer hardware is often designed by EEs. So overall we can say Computer Science and Electrical is dependent on each other.
+
+### Mechanical:
+#### Whenever I think of comparing CSE with Mechanical Engineering the first topic I could thik of is the most trendy topic of this days "Machine Learning", "IOT", "Robotics", "Areospace".Developing and modifying the designing and analysis software like SoildWorks,Ansys,Hypermesh,needs both mechanical and software skills. Using both the knowledge of computer science and Mechanical engineering you can create autonomous machine, Smart technology, Autonomous future transportation and also Smart robot that can be used meets the future need. 
