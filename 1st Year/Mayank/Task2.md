@@ -8,7 +8,7 @@
 ### Electrical:
 * Computer Science is nothing but the Software form of Electrical Engineering. Once upon a time EE was sufficent for everything as majority of the devices were based on analog technology which was more dependent on electrical engineering. In order to increase accuracy and efficieny some form of logic reasoning, programming, etc. is required to convert them from analog to digital. From that time electrical and computer science were inter dependent with each other. Everything like a microchips, motherboard, processors, (all semiconductor chips) required some form of computer science engineering innovation.
 
-![photo2](https://www.uav.edu/images/Campus%20Life/Electrical_Engineering.jpg0
+![photo2](https://www.uav.edu/images/Campus%20Life/Electrical_Engineering.jpg)
 
 ### Corporate:
 * Corporate domain is essential and responsible for funding through sponserships and many more. Without proper management of corporate domain could lead to a huge disaster to a product. Marketing is also an important to showcase the talent and skills which computer science domain has to the outside world. Creating good relations with companies can help us achieve in making a better product. Also corporate domain definitely needs computer science engineers to create intuitive websites and apps to bring sponserships and better marketing techniques.
