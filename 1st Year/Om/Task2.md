@@ -5,4 +5,4 @@
 ### Mechanical:
 *For mechanical grp, cse and mechanical domain need to collaborate for sensor and camera placement in the car.  Mechanical domain will decide where we can fit camera ,sensor and everything and wherever it is feasible.*
 ### Corporate
-*Corporate provide us with sponsors .
+*Corporate provide us with sponsors .*
