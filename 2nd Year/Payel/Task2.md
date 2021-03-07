@@ -5,7 +5,7 @@ CS is logic, programming, circuitry, binary, and very structured. So is EE. In E
 
 ### Mechanical:
 Whenever I think of comparing CSE with Mechanical Engineering the first topic I could thik of is the most trendy topic of this days "Machine Learning", "IOT", "Robotics", "Areospace".Developing and modifying the designing and analysis software like SoildWorks,Ansys,Hypermesh,needs both mechanical and software skills. Using both the knowledge of computer science and Mechanical engineering you can create autonomous machine, Smart technology, Autonomous future transportation and also Smart robot that can be used meets the future need. 
-![ci16_amiibo_46_ssbbatch7_ROB_image510h](https://user-images.githubusercontent.com/60737264/110241320-33641e80-7f76-11eb-8bc1-020e691a7a64.jpg)
+![_110849280_robots boxes g](https://user-images.githubusercontent.com/60737264/110241380-7625f680-7f76-11eb-9892-b8796771b423.jpg)
 
 ### Corporate:
 Corporate is a very important domain. Any product without proper marketing will be surely a failure. Let's say if we make an app and its marketing campaign isn't proper and people do not use it, then the entire hardwork behind making the app will be wasted. And also when we have some event or project and we need some funding, corporate people are the who who gets these sponsors and make the event successful. So, clearly we can see that corporate dommain is every important.
