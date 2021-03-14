@@ -4,5 +4,7 @@ CS and EE are closely inter-knitted. They both involve logic, programming, circu
 ![electrical](https://carleton.ca/ece/wp-content/uploads/ece-banner.jpg)
 ## Mechanical
 Computer science and Mechanical engineering both involve the design, development, and testing of tools for public use. Each of these professionals works to identify and solve problems using systems, modeling, and mathematics. Computer science and mechanical engineering are each rooted in science and mathematics, and both require the ability to communicate complex ideas.
+![mechanical](https://www.iotworldtoday.com/files/2020/05/GettyImages-1184804468-789x432.jpg)
 ## Corporate
 Corporate is a very important domain. Any product without proper marketing will be surely a failure. Let's say if we make an app and its marketing campaign isn't proper and people do not use it, then the entire hardwork behind making the app will be wasted. And also when we have some event or project and we need some funding, corporate people are the who who gets these sponsors and make the event successful. So, clearly we can see that corporate dommain is every important.
+![corporate](https://www.zimegats.com/wp-content/uploads/2018/07/Business-Technology.jpg)
