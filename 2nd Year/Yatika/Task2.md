@@ -1,6 +1,7 @@
 # How are other branches like Electrical, Mechanical and Corporate related to Computer Science?
 ## Electrical
 CS and EE are closely inter-knitted. They both involve logic, programming, circuitry, binary, and very structured. In EE, a circuit often either works or doesn’t. Same in CS. The isolation of problems, troubleshooting is remarkably similar. The design of systems, circuits, programs, software, I/O, GUI’s and networks is also very similar - in fact, they often use similar tools - flow diagrams, process charts and schematics. Computer Science is like a combination of Mathematics and Electrical Engineering.
+![electrical](https://carleton.ca/ece/wp-content/uploads/ece-banner.jpg)
 ## Mechanical
 Computer science and Mechanical engineering both involve the design, development, and testing of tools for public use. Each of these professionals works to identify and solve problems using systems, modeling, and mathematics. Computer science and mechanical engineering are each rooted in science and mathematics, and both require the ability to communicate complex ideas.
 ## Corporate
